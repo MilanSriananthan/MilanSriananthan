@@ -9,7 +9,7 @@ My name is Milan Sriananthan and I am a senior computer science and business adm
 🎓 &nbsp;I'm an advisor for UWaterloo Management Consulting Club.\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
 ✍️ &nbsp;In my free time, I play soccer and watch a lot of movies (TV shows are too much of a commitment).\
-✉️ &nbsp;You can shoot me an email at milan.3sa@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at milan.3sa@gmail.com! I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
